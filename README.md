@@ -1,13 +1,13 @@
 # CSE557A_final_project
 
-Wild life trade data visualization webiste
+Wildlife trade data visualization webiste
 
 # Project Objectives
-● Build up an overview of the current wildlife trade all over the world (in the year of 2017)
-● Investigate the distribution among different countries and continents.
-which country contributes the most in import/export wildlifes?
-● Find out the main classes of species of the trade
-● Identify the main purposes of the wildlifes being traded.
+● Build up an overview of the current wildlife trade all over the world (in the year of 2017)<br>
+● Investigate the distribution among different countries and continents <br>
+● Identify which countries contribute the most in importing/exporting wildlifes<br>
+● Find out the main classes of species of the trade <br>
+● Identify the main purposes of the wildlifes being traded
 
 # Website Link
 
